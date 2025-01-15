@@ -1,6 +1,6 @@
 ## Bio  
 Name: Spataru Madalin Daniel  
-Age: 30 years  
+Age: 32 years  
 Location: Bucharest (but I'd like to move out of the city and work remotely)
 
 ## Working Experience
