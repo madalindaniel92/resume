@@ -32,6 +32,17 @@ sep 2021 - sep 2022
     -> simple REST API 
     -> PDF generation as a background worker
 
+### Golang backend developer and VueJS frontend at Quasdev
+jan 2023 - current
+
+- worked on Golang HTTP APIs and microservices
+- worked on a legacy VueJS 2 application
+
+### VueJS (and Nuxt) developer at Moonflow Solutions
+apr 2023 - current
+
+- worked on Vue3 projects using the Nuxt framework for SSR
+- interacted with blockchain APIs via the `ethers-js` library
 
 ## Education:
 - finished high school at "Colegiul National Tudor Vladimirescu, Tg Jiu, Gorj" (2011)
